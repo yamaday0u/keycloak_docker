@@ -7,4 +7,4 @@ services:
       KEYCLOAK_USER: admin
       KEYCLOAK_PASSWORD: ${KEYCLOAK_PASSWORD}
     ports:
-      - 4000:8080
+      - 8080:8080
